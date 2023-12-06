@@ -4,7 +4,7 @@ This is my homepage! My name is Tatiana Estrada and I am a student at [Cal State
 
 ## Computer Science Projects
 
-My Github page is http://github.com/Tati-23.
+My Github page is [http://github.com/Tati-23](http://github.com/Tati-23/).
 
 ### CPSC 120
 
